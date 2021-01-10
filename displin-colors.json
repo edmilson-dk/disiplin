@@ -1,0 +1,100 @@
+{
+	"Name": "Color Grab (displin-colors)"
+	"Colors": [
+		{
+			"Name": "Light Grey"
+			"Note": "no note"
+			"Created": "01/08/2021 20:43:27"
+			"Modified": "01/08/2021 20:43:27"
+			"Hex": "#D1D2D9"
+			"RGB_R": 209
+			"RGB_G": 210
+			"RGB_B": 217
+			"HSV_H": 232.5
+			"HSV_S": 0.03686636
+			"HSV_V": 0.8509804
+			"HSL_H": 232.5
+			"HSL_S": 0.0952381
+			"HSL_L": 0.8352941
+			"LAB_L": 84.30723
+			"LAB_a": 0.9538233
+			"LAB_b": -3.5710096
+		},
+		{
+			"Name": "Lavender Rose"
+			"Note": "no note"
+			"Created": "01/08/2021 20:43:27"
+			"Modified": "01/08/2021 20:43:27"
+			"Hex": "#FFB1F7"
+			"RGB_R": 255
+			"RGB_G": 177
+			"RGB_B": 247
+			"HSV_H": 306.15384
+			"HSV_S": 0.30588236
+			"HSV_V": 1.0
+			"HSL_H": 306.15384
+			"HSL_S": 1.0
+			"HSL_L": 0.84705883
+			"LAB_L": 81.52317
+			"LAB_a": 39.096863
+			"LAB_b": -23.3436
+		},
+		{
+			"Name": "White"
+			"Note": "no note"
+			"Created": "01/08/2021 20:43:27"
+			"Modified": "01/08/2021 20:43:27"
+			"Hex": "#FCF0FE"
+			"RGB_R": 252
+			"RGB_G": 240
+			"RGB_B": 254
+			"HSV_H": 291.4286
+			"HSV_S": 0.05511811
+			"HSV_V": 0.99607843
+			"HSL_H": 291.4286
+			"HSL_S": 0.87500083
+			"HSL_L": 0.96862745
+			"LAB_L": 96.06798
+			"LAB_a": 6.462365
+			"LAB_b": -5.2802563
+		},
+		{
+			"Name": "Medium Orchid"
+			"Note": "no note"
+			"Created": "01/08/2021 20:43:27"
+			"Modified": "01/08/2021 20:43:27"
+			"Hex": "#A353F3"
+			"RGB_R": 163
+			"RGB_G": 83
+			"RGB_B": 243
+			"HSV_H": 270.0
+			"HSV_S": 0.65843624
+			"HSV_V": 0.9529412
+			"HSL_H": 270.00003
+			"HSL_S": 0.8695652
+			"HSL_L": 0.6392157
+			"LAB_L": 52.335266
+			"LAB_a": 61.674534
+			"LAB_b": -67.70607
+		},
+		{
+			"Name": "Meteorite"
+			"Note": "no note"
+			"Created": "01/08/2021 20:43:27"
+			"Modified": "01/08/2021 20:43:27"
+			"Hex": "#493D6B"
+			"RGB_R": 73
+			"RGB_G": 61
+			"RGB_B": 107
+			"HSV_H": 255.65218
+			"HSV_S": 0.42990655
+			"HSV_V": 0.41960785
+			"HSL_H": 255.65216
+			"HSL_S": 0.27380952
+			"HSL_L": 0.32941177
+			"LAB_L": 28.941727
+			"LAB_a": 16.560762
+			"LAB_b": -25.014824
+		}
+	]
+}

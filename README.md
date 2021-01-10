@@ -19,6 +19,8 @@ Below you can see the project layout.
 
 ![Disiplin](https://tlgur.com/d/8BrLbk98)
 
+![Disiplin video](https://tlgur.com/d/gwk3jvjg)
+
 <a id="features"></a>
 ## 🚀 Functionalities
 
@@ -27,7 +29,7 @@ Below you can see the project layout.
 <a id="differential"></a>
 ## 🔥 Differential
 
-> The biggest difference in the creation of this project was the application of animations in the loader of the interface elements, with pure css only.
+> The difference in this project is the animation present in the mobile menu and the shadow animation of the buttons.
 
 <a id="install"></a>
 ## 👷 Installation and use
