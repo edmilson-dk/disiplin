@@ -19,8 +19,6 @@ Below you can see the project layout.
 
 ![Disiplin](https://tlgur.com/d/8BrLbk98)
 
-![Disiplin video](https://tlgur.com/d/gwk3jvjg)
-
 <a id="features"></a>
 ## 🚀 Functionalities
 
