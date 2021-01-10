@@ -1,13 +1,16 @@
 import Head from 'next/head';
 
+import Header from '../components/UI/Header';
+import BannerHomePage from '../components/BannerHomePage';
+
 function Home() {
   return (
     <>
       <Head>
         <title>Disiplin - Home</title>
       </Head>
-    
-      <h1>Disiplin</h1>
+      <Header /> 
+      <BannerHomePage />
     </>
   );
 }
