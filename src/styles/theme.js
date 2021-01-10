@@ -2,8 +2,9 @@ import { ThemeProvider } from 'styled-components';
 
 const theme = {
   colors: {
-    gray: '#D1D2D9', 
+    gray: 'gray', 
     pink: '#FFB1F7',
+    white: '#FFFFFC',
     whitePink: '#FCF0FE',
     violet: '#A353F3',
     violetDark: '#493D6B',
