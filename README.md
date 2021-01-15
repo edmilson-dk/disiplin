@@ -5,7 +5,7 @@
   <img alt="License" src="https://img.shields.io/static/v1?label=version&message=1.0&color=FFFFFF&labelColor=A353F3">
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=FFFFFF&labelColor=A353F3">
   <img alt="Stars" src="https://img.shields.io/github/stars/DKSecurity99/disiplin?color=FFFFFF&labelColor=A353F3">
-  <img alt="Stars" src="https://img.shields.io/github/languages/count/DKSecurity99/disiplin?color=FFFFFF&labelColor=A353F3">
+  <img alt="Languages" src="https://img.shields.io/github/languages/count/DKSecurity99/disiplin?color=FFFFFF&labelColor=A353F3">
 </p>
 
 Disiplin is a clone of a layout copied from the design site o [dribbbles](https://dribbble.com/), the site was created in ReactJS, using a NextJS and Styled-component.
